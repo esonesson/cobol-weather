@@ -1,0 +1,5 @@
+# Compiled binary
+weather
+
+# Temp files
+/tmp/cobol_weather_*.txt
